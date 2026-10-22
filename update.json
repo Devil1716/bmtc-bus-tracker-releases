@@ -1,0 +1,7 @@
+{
+  "versionCode": 17,
+  "versionName": "17.0",
+  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v17.0.apk",
+  "sha256": "31a9ec9ce4688030928423487c5bb3b9954a3f6c7418e433adab050541350049",
+  "notes": "ci: use the runner's preinstalled Android SDK"
+}
