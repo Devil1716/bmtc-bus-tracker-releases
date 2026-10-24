@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "18.0",
-  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v18.0.apk",
-  "sha256": "f7e4b199dea9a9c085d3b388227771e369ef6160b4b377c7e556c27f74e793d9",
-  "notes": "Peenya departure history and a be-ready-by morning hint once enough data is logged. Tap to refresh, clearer last-updated, slower idle polling, quieter near-Peenya notifications."
+  "versionCode": 19,
+  "versionName": "19.0",
+  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v19.0.apk",
+  "sha256": "74fcd26fee69718d22533ccd03349e56da840cb4f2eb59b31a513ad0a920fb1e",
+  "notes": "Uber-like UI redesign with MenuBarPro-style ball-drop nav: magenta nest bubble, fluid scoop that opens on land, jump between tabs, and polished markers."
 }
