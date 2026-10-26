@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "22.0",
-  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v22.0.apk",
-  "sha256": "8e7486471c45d45d683717dbf5fe228ca1ba49bdc975d307539f9f3f00800b84",
-  "notes": "v22.0 — OutletBuddy Live map aesthetic\n\nCarto Dark basemap, neon mint glow route, circular pins with pill badges,\nfloatier dark bottom sheet. OTA update for Live map restyle."
+  "versionCode": 23,
+  "versionName": "23.0",
+  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v23.0.apk",
+  "sha256": "35e833d589dbf43227a99a17fb65ebee5b28e10bc78df6132e9e43c4c209072b",
+  "notes": "Google/Apple Maps–inspired Live map: calm blue route, teardrop pins, Voyager/Carto Dark basemaps, quieter chrome. Open BMTC → More → Check for updates."
 }
