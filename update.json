@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "21.0",
-  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v21.0.apk",
-  "sha256": "dc3c853a27d7192c342a44d15e5efd390ba51a00e7b40c3649ddf1b38fb9ff9d",
-  "notes": "v21.0 — new launcher icon (bus + pin logo)\n\nAdaptive launcher mipmaps from the provided app logo. Widget picker\npreview matches. OTA via Check for updates. Samsung may cache the old\nicon until reboot."
+  "versionCode": 22,
+  "versionName": "22.0",
+  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v22.0.apk",
+  "sha256": "8e7486471c45d45d683717dbf5fe228ca1ba49bdc975d307539f9f3f00800b84",
+  "notes": "v22.0 — OutletBuddy Live map aesthetic\n\nCarto Dark basemap, neon mint glow route, circular pins with pill badges,\nfloatier dark bottom sheet. OTA update for Live map restyle."
 }
