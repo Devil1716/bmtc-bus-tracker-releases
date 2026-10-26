@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "19.0",
-  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v19.0.apk",
-  "sha256": "74fcd26fee69718d22533ccd03349e56da840cb4f2eb59b31a513ad0a920fb1e",
-  "notes": "Uber-like UI redesign with MenuBarPro-style ball-drop nav: magenta nest bubble, fluid scoop that opens on land, jump between tabs, and polished markers."
+  "versionCode": 20,
+  "versionName": "20.0",
+  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v20.0.apk",
+  "sha256": "fe1bf8b724932f742512c97c13acb688b65b910c3e8cd9c82f4834c41c456296",
+  "notes": "v20.0 — home-screen widget\n\nHome-screen widget for 401-AM Peenya status (near / waiting / left / last known).\nReads PollService cache; tap opens the app. OTA via update.json."
 }
