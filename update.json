@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "20.0",
-  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v20.0.apk",
-  "sha256": "fe1bf8b724932f742512c97c13acb688b65b910c3e8cd9c82f4834c41c456296",
-  "notes": "v20.0 — home-screen widget\n\nHome-screen widget for 401-AM Peenya status (near / waiting / left / last known).\nReads PollService cache; tap opens the app. OTA via update.json."
+  "versionCode": 21,
+  "versionName": "21.0",
+  "apkUrl": "https://raw.githubusercontent.com/Devil1716/bmtc-bus-tracker-releases/main/apk/bmtc-401am-v21.0.apk",
+  "sha256": "dc3c853a27d7192c342a44d15e5efd390ba51a00e7b40c3649ddf1b38fb9ff9d",
+  "notes": "v21.0 — new launcher icon (bus + pin logo)\n\nAdaptive launcher mipmaps from the provided app logo. Widget picker\npreview matches. OTA via Check for updates. Samsung may cache the old\nicon until reboot."
 }
